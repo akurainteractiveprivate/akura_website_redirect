@@ -1,0 +1,22 @@
+{
+  "name": "akura-domain-redirect",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Permanent 301/308 SEO redirect service for Akura Interactive legacy domain migration",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "16.2.1",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.17.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^5.7.0"
+  }
+}
